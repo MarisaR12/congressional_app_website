@@ -29,7 +29,7 @@ body{
 }
 
 .square {
-  height: 45px;
+  height: 100px;
   width: 100%;
   background-color: #ffffff;
   padding-bottom: 35%;
@@ -45,17 +45,18 @@ body{
   position: absolute;
   left: 50%;
   margin-left: -px;
-  top: 32%;
+  top: 20%;
 }
 
 .about{
   font-family: "Zain";
   margin-left: 10px;
-  margin-right: 10px;
+  margin-right: 5%;
   font-size: 25px;
 }
 
 .embedded-code{
   margin-left: 3%;
   margin-top: 10px;
+  
 }
