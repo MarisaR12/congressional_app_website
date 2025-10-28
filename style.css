@@ -1,0 +1,61 @@
+.zain-regular {
+  font-family: "Zain", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.keania-one-regular {
+  font-family: "Keania One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.heading{
+  font-family: "Keania One";
+  font-size: 150px;
+  text-align: center;
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 0px
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: #420D4B;
+}
+
+.square {
+  height: 45px;
+  width: 100%;
+  background-color: #ffffff;
+  padding-bottom: 35%;
+  margin-top: 1%;
+  border-radius: 20px 20px 0 0;
+  aspect-ratio: 1 / 1;
+  margin-left: -7px;
+}
+
+.vl {
+  border-left: 3px solid black;
+  height: 65%;
+  position: absolute;
+  left: 50%;
+  margin-left: -px;
+  top: 32%;
+}
+
+.about{
+  font-family: "Zain";
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 25px;
+}
+
+.embedded-code{
+  margin-left: 3%;
+  margin-top: 10px;
+}
